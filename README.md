@@ -42,18 +42,6 @@ A simple and efficient **Café Management System** developed using **VB.NET** (W
 
 
 
-## 🧩 Folder Structure
-
-
-📁 CafeManagementSystem
-├── 📂 Forms           # All Windows Forms (UI)
-├── 📂 Database        # .sql file to set up database schema
-├── 📂 Classes         # Business logic and data access
-├── My Cafe.sln       # Visual Studio Solution
-
-
-
-
 ## 🗃️ Database
 
 - The database includes the following tables:
